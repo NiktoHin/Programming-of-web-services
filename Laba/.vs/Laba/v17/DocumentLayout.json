@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "D:\\Teaching\\Uneversity\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F \u0432\u0435\u0431 \u0441\u0435\u0440\u0432\u0456\u0441\u0456\u0432\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F \u0412\u0435\u0431 \u0441\u0435\u0440\u0432\u0456\u0441\u0456\u0432\\Laba\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0334D256-EC47-44A2-A6A5-64F5ECCD4040}|Laba.Services\\Laba.Services.csproj|d:\\teaching\\uneversity\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F \u0432\u0435\u0431 \u0441\u0435\u0440\u0432\u0456\u0441\u0456\u0432\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F \u0432\u0435\u0431 \u0441\u0435\u0440\u0432\u0456\u0441\u0456\u0432\\laba\\laba.services\\implementations\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0334D256-EC47-44A2-A6A5-64F5ECCD4040}|Laba.Services\\Laba.Services.csproj|solutionrelative:laba.services\\implementations\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0334D256-EC47-44A2-A6A5-64F5ECCD4040}|Laba.Services\\Laba.Services.csproj|d:\\teaching\\uneversity\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F \u0432\u0435\u0431 \u0441\u0435\u0440\u0432\u0456\u0441\u0456\u0432\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F \u0432\u0435\u0431 \u0441\u0435\u0440\u0432\u0456\u0441\u0456\u0432\\laba\\laba.services\\interfaces\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0334D256-EC47-44A2-A6A5-64F5ECCD4040}|Laba.Services\\Laba.Services.csproj|solutionrelative:laba.services\\interfaces\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9AC9677F-4BF2-41ED-B93B-0C8AC997A83D}|Laba\\Laba.csproj|d:\\teaching\\uneversity\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F \u0432\u0435\u0431 \u0441\u0435\u0440\u0432\u0456\u0441\u0456\u0432\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F \u0432\u0435\u0431 \u0441\u0435\u0440\u0432\u0456\u0441\u0456\u0432\\laba\\laba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9AC9677F-4BF2-41ED-B93B-0C8AC997A83D}|Laba\\Laba.csproj|solutionrelative:laba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -22,47 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmailSender.cs",
-              "DocumentMoniker": "D:\\Teaching\\Uneversity\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F \u0432\u0435\u0431 \u0441\u0435\u0440\u0432\u0456\u0441\u0456\u0432\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F \u0412\u0435\u0431 \u0441\u0435\u0440\u0432\u0456\u0441\u0456\u0432\\Laba\\Laba.Services\\Implementations\\EmailSender.cs",
-              "RelativeDocumentMoniker": "Laba.Services\\Implementations\\EmailSender.cs",
-              "ToolTip": "D:\\Teaching\\Uneversity\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F \u0432\u0435\u0431 \u0441\u0435\u0440\u0432\u0456\u0441\u0456\u0432\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F \u0412\u0435\u0431 \u0441\u0435\u0440\u0432\u0456\u0441\u0456\u0432\\Laba\\Laba.Services\\Implementations\\EmailSender.cs",
-              "RelativeToolTip": "Laba.Services\\Implementations\\EmailSender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-20T14:57:55.657Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IEmailSender.cs",
-              "DocumentMoniker": "D:\\Teaching\\Uneversity\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F \u0432\u0435\u0431 \u0441\u0435\u0440\u0432\u0456\u0441\u0456\u0432\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F \u0412\u0435\u0431 \u0441\u0435\u0440\u0432\u0456\u0441\u0456\u0432\\Laba\\Laba.Services\\Interfaces\\IEmailSender.cs",
-              "RelativeDocumentMoniker": "Laba.Services\\Interfaces\\IEmailSender.cs",
-              "ToolTip": "D:\\Teaching\\Uneversity\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F \u0432\u0435\u0431 \u0441\u0435\u0440\u0432\u0456\u0441\u0456\u0432\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F \u0412\u0435\u0431 \u0441\u0435\u0440\u0432\u0456\u0441\u0456\u0432\\Laba\\Laba.Services\\Interfaces\\IEmailSender.cs",
-              "RelativeToolTip": "Laba.Services\\Interfaces\\IEmailSender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-20T14:52:53.967Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Teaching\\Uneversity\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F \u0432\u0435\u0431 \u0441\u0435\u0440\u0432\u0456\u0441\u0456\u0432\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F \u0412\u0435\u0431 \u0441\u0435\u0440\u0432\u0456\u0441\u0456\u0432\\Laba\\Laba\\Program.cs",
               "RelativeDocumentMoniker": "Laba\\Program.cs",
               "ToolTip": "D:\\Teaching\\Uneversity\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F \u0432\u0435\u0431 \u0441\u0435\u0440\u0432\u0456\u0441\u0456\u0432\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F \u0412\u0435\u0431 \u0441\u0435\u0440\u0432\u0456\u0441\u0456\u0432\\Laba\\Laba\\Program.cs",
               "RelativeToolTip": "Laba\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-20T13:56:27.098Z",
               "EditorCaption": ""

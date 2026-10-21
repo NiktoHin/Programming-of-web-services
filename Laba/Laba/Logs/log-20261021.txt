@@ -1,0 +1,110 @@
+2026-10-21 21:46:35.373 +03:00 [INF] User profile is available. Using 'C:\Users\NiK\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-10-21 21:46:36.016 +03:00 [INF] Now listening on: https://localhost:7072
+2026-10-21 21:46:36.017 +03:00 [INF] Now listening on: http://localhost:5128
+2026-10-21 21:46:36.250 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-10-21 21:46:36.251 +03:00 [INF] Hosting environment: Development
+2026-10-21 21:46:36.251 +03:00 [INF] Content root path: D:\Teaching\Uneversity\7 семестр\Програмування веб сервісів\Лабораторні\Програмування Веб сервісів\Laba\Laba
+2026-10-21 21:46:45.824 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7072/ - null null
+2026-10-21 21:46:46.688 +03:00 [INF] Executing endpoint 'Laba.Controllers.HomeController.Index (Laba)'
+2026-10-21 21:46:46.923 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Laba.Controllers.HomeController (Laba).
+2026-10-21 21:46:47.007 +03:00 [INF] Executing ViewResult, running view Index.
+2026-10-21 21:46:47.775 +03:00 [INF] Executed ViewResult - view Index executed in 788.6511ms.
+2026-10-21 21:46:47.779 +03:00 [INF] Executed action Laba.Controllers.HomeController.Index (Laba) in 852.778ms
+2026-10-21 21:46:47.779 +03:00 [INF] Executed endpoint 'Laba.Controllers.HomeController.Index (Laba)'
+2026-10-21 21:46:47.933 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7072/ - 200 null text/html; charset=utf-8 2054.0453ms
+2026-10-21 21:46:48.404 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7072/lib/bootstrap/dist/css/bootstrap.min.css - null null
+2026-10-21 21:46:48.409 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7072/_framework/aspnetcore-browser-refresh.js - null null
+2026-10-21 21:46:48.412 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7072/lib/jquery/dist/jquery.min.js - null null
+2026-10-21 21:46:48.444 +03:00 [INF] The file /lib/jquery/dist/jquery.min.js was not modified
+2026-10-21 21:46:48.446 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7072/lib/jquery/dist/jquery.min.js - 304 null text/javascript 34.6316ms
+2026-10-21 21:46:48.447 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7072/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+2026-10-21 21:46:48.450 +03:00 [INF] The file /lib/bootstrap/dist/js/bootstrap.bundle.min.js was not modified
+2026-10-21 21:46:48.452 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7072/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 304 null text/javascript 5.589ms
+2026-10-21 21:46:48.462 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7072/css/site.css?v=pAGv4ietcJNk_EwsQZ5BN9-K4MuNYS2a9wl4Jw-q9D0 - null null
+2026-10-21 21:46:48.464 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7072/Laba.styles.css?v=k37oUZ5k7K4lOj9aZmyGABvg3vDuIrFgZzTl_nhooGw - null null
+2026-10-21 21:46:48.465 +03:00 [INF] The file /Laba.styles.css was not modified
+2026-10-21 21:46:48.467 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7072/Laba.styles.css?v=k37oUZ5k7K4lOj9aZmyGABvg3vDuIrFgZzTl_nhooGw - 304 null text/css 3.197ms
+2026-10-21 21:46:48.468 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7072/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - null null
+2026-10-21 21:46:48.473 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7072/_vs/browserLink - null null
+2026-10-21 21:46:48.477 +03:00 [INF] The file /lib/bootstrap/dist/css/bootstrap.min.css was not modified
+2026-10-21 21:46:48.478 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7072/lib/bootstrap/dist/css/bootstrap.min.css - 304 null text/css 75.079ms
+2026-10-21 21:46:48.494 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7072/_framework/aspnetcore-browser-refresh.js - 200 16493 application/javascript; charset=utf-8 85.6592ms
+2026-10-21 21:46:48.495 +03:00 [INF] The file /css/site.css was not modified
+2026-10-21 21:46:48.497 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7072/css/site.css?v=pAGv4ietcJNk_EwsQZ5BN9-K4MuNYS2a9wl4Jw-q9D0 - 304 null text/css 34.7273ms
+2026-10-21 21:46:48.503 +03:00 [INF] The file /js/site.js was not modified
+2026-10-21 21:46:48.691 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7072/js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo - 304 null text/javascript 223.3741ms
+2026-10-21 21:46:48.909 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7072/_vs/browserLink - 200 null text/javascript; charset=UTF-8 437.6646ms
+2026-10-21 21:46:57.743 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7072/ - null null
+2026-10-21 21:46:57.752 +03:00 [INF] Executing endpoint 'Laba.Controllers.HomeController.Index (Laba)'
+2026-10-21 21:46:57.753 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Laba.Controllers.HomeController (Laba).
+2026-10-21 21:46:57.754 +03:00 [INF] Executing ViewResult, running view Index.
+2026-10-21 21:46:57.759 +03:00 [INF] Executed ViewResult - view Index executed in 5.1908ms.
+2026-10-21 21:46:57.759 +03:00 [INF] Executed action Laba.Controllers.HomeController.Index (Laba) in 5.8483ms
+2026-10-21 21:46:57.759 +03:00 [INF] Executed endpoint 'Laba.Controllers.HomeController.Index (Laba)'
+2026-10-21 21:46:57.759 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7072/ - 200 null text/html; charset=utf-8 16.1194ms
+2026-10-21 21:46:57.978 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7072/_framework/aspnetcore-browser-refresh.js - null null
+2026-10-21 21:46:57.978 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7072/_vs/browserLink - null null
+2026-10-21 21:46:57.981 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7072/_framework/aspnetcore-browser-refresh.js - 200 16493 application/javascript; charset=utf-8 2.9879ms
+2026-10-21 21:46:58.004 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7072/_vs/browserLink - 200 null text/javascript; charset=UTF-8 26.1511ms
+2026-10-21 21:46:58.736 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7072/Home/Privacy - null null
+2026-10-21 21:46:58.745 +03:00 [INF] Executing endpoint 'Laba.Controllers.HomeController.Privacy (Laba)'
+2026-10-21 21:46:58.749 +03:00 [INF] Route matched with {action = "Privacy", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Privacy() on controller Laba.Controllers.HomeController (Laba).
+2026-10-21 21:46:58.753 +03:00 [INF] Executing ViewResult, running view Privacy.
+2026-10-21 21:46:58.757 +03:00 [INF] Executed ViewResult - view Privacy executed in 7.2321ms.
+2026-10-21 21:46:58.758 +03:00 [INF] Executed action Laba.Controllers.HomeController.Privacy (Laba) in 8.2925ms
+2026-10-21 21:46:58.758 +03:00 [INF] Executed endpoint 'Laba.Controllers.HomeController.Privacy (Laba)'
+2026-10-21 21:46:58.758 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7072/Home/Privacy - 200 null text/html; charset=utf-8 21.9972ms
+2026-10-21 21:46:58.930 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7072/_vs/browserLink - null null
+2026-10-21 21:46:58.930 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7072/_framework/aspnetcore-browser-refresh.js - null null
+2026-10-21 21:46:58.947 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7072/_framework/aspnetcore-browser-refresh.js - 200 16493 application/javascript; charset=utf-8 15.6981ms
+2026-10-21 21:46:59.090 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7072/_vs/browserLink - 200 null text/javascript; charset=UTF-8 159.5256ms
+2026-10-21 21:46:59.808 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7072/ - null null
+2026-10-21 21:46:59.817 +03:00 [INF] Executing endpoint 'Laba.Controllers.HomeController.Index (Laba)'
+2026-10-21 21:46:59.817 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Laba.Controllers.HomeController (Laba).
+2026-10-21 21:46:59.818 +03:00 [INF] Executing ViewResult, running view Index.
+2026-10-21 21:46:59.820 +03:00 [INF] Executed ViewResult - view Index executed in 2.21ms.
+2026-10-21 21:46:59.820 +03:00 [INF] Executed action Laba.Controllers.HomeController.Index (Laba) in 2.762ms
+2026-10-21 21:46:59.820 +03:00 [INF] Executed endpoint 'Laba.Controllers.HomeController.Index (Laba)'
+2026-10-21 21:46:59.821 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7072/ - 200 null text/html; charset=utf-8 13.1217ms
+2026-10-21 21:47:00.028 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7072/_framework/aspnetcore-browser-refresh.js - null null
+2026-10-21 21:47:00.063 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7072/_vs/browserLink - null null
+2026-10-21 21:47:00.064 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7072/_framework/aspnetcore-browser-refresh.js - 200 16493 application/javascript; charset=utf-8 35.6892ms
+2026-10-21 21:47:00.187 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7072/_vs/browserLink - 200 null text/javascript; charset=UTF-8 123.6615ms
+2026-10-21 21:47:00.677 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7072/ - null null
+2026-10-21 21:47:00.681 +03:00 [INF] Executing endpoint 'Laba.Controllers.HomeController.Index (Laba)'
+2026-10-21 21:47:00.681 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Laba.Controllers.HomeController (Laba).
+2026-10-21 21:47:00.681 +03:00 [INF] Executing ViewResult, running view Index.
+2026-10-21 21:47:00.688 +03:00 [INF] Executed ViewResult - view Index executed in 7.3787ms.
+2026-10-21 21:47:00.689 +03:00 [INF] Executed action Laba.Controllers.HomeController.Index (Laba) in 7.6772ms
+2026-10-21 21:47:00.689 +03:00 [INF] Executed endpoint 'Laba.Controllers.HomeController.Index (Laba)'
+2026-10-21 21:47:00.689 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7072/ - 200 null text/html; charset=utf-8 11.851ms
+2026-10-21 21:47:00.862 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7072/_framework/aspnetcore-browser-refresh.js - null null
+2026-10-21 21:47:00.888 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7072/_vs/browserLink - null null
+2026-10-21 21:47:00.889 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7072/_framework/aspnetcore-browser-refresh.js - 200 16493 application/javascript; charset=utf-8 27.7111ms
+2026-10-21 21:47:00.935 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7072/_vs/browserLink - 200 null text/javascript; charset=UTF-8 47.4175ms
+2026-10-21 21:47:02.440 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7072/Home/Privacy - null null
+2026-10-21 21:47:02.445 +03:00 [INF] Executing endpoint 'Laba.Controllers.HomeController.Privacy (Laba)'
+2026-10-21 21:47:02.445 +03:00 [INF] Route matched with {action = "Privacy", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Privacy() on controller Laba.Controllers.HomeController (Laba).
+2026-10-21 21:47:02.446 +03:00 [INF] Executing ViewResult, running view Privacy.
+2026-10-21 21:47:02.446 +03:00 [INF] Executed ViewResult - view Privacy executed in 0.9804ms.
+2026-10-21 21:47:02.447 +03:00 [INF] Executed action Laba.Controllers.HomeController.Privacy (Laba) in 1.1798ms
+2026-10-21 21:47:02.447 +03:00 [INF] Executed endpoint 'Laba.Controllers.HomeController.Privacy (Laba)'
+2026-10-21 21:47:02.447 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7072/Home/Privacy - 200 null text/html; charset=utf-8 6.8236ms
+2026-10-21 21:47:02.650 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7072/_framework/aspnetcore-browser-refresh.js - null null
+2026-10-21 21:47:02.654 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7072/_vs/browserLink - null null
+2026-10-21 21:47:02.655 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7072/_framework/aspnetcore-browser-refresh.js - 200 16493 application/javascript; charset=utf-8 7.1343ms
+2026-10-21 21:47:02.764 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7072/_vs/browserLink - 200 null text/javascript; charset=UTF-8 109.716ms
+2026-10-21 21:47:03.484 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7072/ - null null
+2026-10-21 21:47:03.496 +03:00 [INF] Executing endpoint 'Laba.Controllers.HomeController.Index (Laba)'
+2026-10-21 21:47:03.496 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Laba.Controllers.HomeController (Laba).
+2026-10-21 21:47:03.497 +03:00 [INF] Executing ViewResult, running view Index.
+2026-10-21 21:47:03.504 +03:00 [INF] Executed ViewResult - view Index executed in 7.2016ms.
+2026-10-21 21:47:03.504 +03:00 [INF] Executed action Laba.Controllers.HomeController.Index (Laba) in 7.7517ms
+2026-10-21 21:47:03.504 +03:00 [INF] Executed endpoint 'Laba.Controllers.HomeController.Index (Laba)'
+2026-10-21 21:47:03.505 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7072/ - 200 null text/html; charset=utf-8 20.4535ms
+2026-10-21 21:47:03.747 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7072/_framework/aspnetcore-browser-refresh.js - null null
+2026-10-21 21:47:03.760 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7072/_vs/browserLink - null null
+2026-10-21 21:47:03.760 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7072/_framework/aspnetcore-browser-refresh.js - 200 16493 application/javascript; charset=utf-8 12.7475ms
+2026-10-21 21:47:03.775 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7072/_vs/browserLink - 200 null text/javascript; charset=UTF-8 15.3842ms
+2026-10-21 21:47:09.963 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7072/_framework/aspnetcore-browser-refresh.js - null null
+2026-10-21 21:47:09.973 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7072/_framework/aspnetcore-browser-refresh.js - 200 16493 application/javascript; charset=utf-8 10.0216ms

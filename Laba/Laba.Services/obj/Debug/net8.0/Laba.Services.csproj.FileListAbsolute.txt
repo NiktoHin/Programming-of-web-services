@@ -1,0 +1,13 @@
+D:\Teaching\Uneversity\7 семестр\Програмування веб сервісів\Лабораторні\Програмування Веб сервісів\Laba\Laba.Services\bin\Debug\net8.0\Laba.Services.deps.json
+D:\Teaching\Uneversity\7 семестр\Програмування веб сервісів\Лабораторні\Програмування Веб сервісів\Laba\Laba.Services\bin\Debug\net8.0\Laba.Services.dll
+D:\Teaching\Uneversity\7 семестр\Програмування веб сервісів\Лабораторні\Програмування Веб сервісів\Laba\Laba.Services\bin\Debug\net8.0\Laba.Services.pdb
+D:\Teaching\Uneversity\7 семестр\Програмування веб сервісів\Лабораторні\Програмування Веб сервісів\Laba\Laba.Services\obj\Debug\net8.0\Laba.Services.csproj.AssemblyReference.cache
+D:\Teaching\Uneversity\7 семестр\Програмування веб сервісів\Лабораторні\Програмування Веб сервісів\Laba\Laba.Services\obj\Debug\net8.0\Laba.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Teaching\Uneversity\7 семестр\Програмування веб сервісів\Лабораторні\Програмування Веб сервісів\Laba\Laba.Services\obj\Debug\net8.0\Laba.Services.AssemblyInfoInputs.cache
+D:\Teaching\Uneversity\7 семестр\Програмування веб сервісів\Лабораторні\Програмування Веб сервісів\Laba\Laba.Services\obj\Debug\net8.0\Laba.Services.AssemblyInfo.cs
+D:\Teaching\Uneversity\7 семестр\Програмування веб сервісів\Лабораторні\Програмування Веб сервісів\Laba\Laba.Services\obj\Debug\net8.0\Laba.Services.csproj.CoreCompileInputs.cache
+D:\Teaching\Uneversity\7 семестр\Програмування веб сервісів\Лабораторні\Програмування Веб сервісів\Laba\Laba.Services\obj\Debug\net8.0\Laba.Services.sourcelink.json
+D:\Teaching\Uneversity\7 семестр\Програмування веб сервісів\Лабораторні\Програмування Веб сервісів\Laba\Laba.Services\obj\Debug\net8.0\Laba.Services.dll
+D:\Teaching\Uneversity\7 семестр\Програмування веб сервісів\Лабораторні\Програмування Веб сервісів\Laba\Laba.Services\obj\Debug\net8.0\refint\Laba.Services.dll
+D:\Teaching\Uneversity\7 семестр\Програмування веб сервісів\Лабораторні\Програмування Веб сервісів\Laba\Laba.Services\obj\Debug\net8.0\Laba.Services.pdb
+D:\Teaching\Uneversity\7 семестр\Програмування веб сервісів\Лабораторні\Програмування Веб сервісів\Laba\Laba.Services\obj\Debug\net8.0\ref\Laba.Services.dll

@@ -1,4 +1,17 @@
+using Serilog;
+using System.IO;
+
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Host.UseSerilog((context, configuration) =>
+    configuration
+        .MinimumLevel.Information()
+        .WriteTo.File(
+            Path.Combine(
+                builder.Environment.ContentRootPath,
+                "Logs",
+                "log-.txt"),
+            rollingInterval: RollingInterval.Day));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
