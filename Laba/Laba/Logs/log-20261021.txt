@@ -108,3 +108,45 @@
 2026-10-21 21:47:03.775 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7072/_vs/browserLink - 200 null text/javascript; charset=UTF-8 15.3842ms
 2026-10-21 21:47:09.963 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7072/_framework/aspnetcore-browser-refresh.js - null null
 2026-10-21 21:47:09.973 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7072/_framework/aspnetcore-browser-refresh.js - 200 16493 application/javascript; charset=utf-8 10.0216ms
+2026-10-21 22:07:19.405 +03:00 [INF] User profile is available. Using 'C:\Users\NiK\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-10-21 22:07:20.053 +03:00 [INF] Now listening on: https://localhost:7072
+2026-10-21 22:07:20.054 +03:00 [INF] Now listening on: http://localhost:5128
+2026-10-21 22:07:20.192 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-10-21 22:07:20.193 +03:00 [INF] Hosting environment: Development
+2026-10-21 22:07:20.193 +03:00 [INF] Content root path: D:\Teaching\Uneversity\7 семестр\Програмування веб сервісів\Лабораторні\Програмування Веб сервісів\Laba\Laba
+2026-10-21 22:07:23.691 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7072/ - null null
+2026-10-21 22:07:24.167 +03:00 [INF] Executing endpoint 'Laba.Controllers.HomeController.Index (Laba)'
+2026-10-21 22:07:24.301 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Laba.Controllers.HomeController (Laba).
+2026-10-21 22:07:24.352 +03:00 [INF] Executing ViewResult, running view Index.
+2026-10-21 22:07:24.644 +03:00 [INF] Executed ViewResult - view Index executed in 314.6736ms.
+2026-10-21 22:07:24.650 +03:00 [INF] Executed action Laba.Controllers.HomeController.Index (Laba) in 343.5533ms
+2026-10-21 22:07:24.650 +03:00 [INF] Executed endpoint 'Laba.Controllers.HomeController.Index (Laba)'
+2026-10-21 22:07:24.708 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7072/ - 200 null text/html; charset=utf-8 1046.3896ms
+2026-10-21 22:07:24.821 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7072/_vs/browserLink - null null
+2026-10-21 22:07:24.843 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7072/_framework/aspnetcore-browser-refresh.js - null null
+2026-10-21 22:07:24.891 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7072/_framework/aspnetcore-browser-refresh.js - 200 16493 application/javascript; charset=utf-8 47.9543ms
+2026-10-21 22:07:25.064 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7072/_vs/browserLink - 200 null text/javascript; charset=UTF-8 242.949ms
+2026-10-21 22:08:09.971 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7072/Home/Upload - null null
+2026-10-21 22:08:10.037 +03:00 [INF] Executing endpoint 'Laba.Controllers.HomeController.Upload (Laba)'
+2026-10-21 22:08:10.041 +03:00 [INF] Route matched with {action = "Upload", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Upload() on controller Laba.Controllers.HomeController (Laba).
+2026-10-21 22:08:10.048 +03:00 [INF] Executing ViewResult, running view Upload.
+2026-10-21 22:08:10.305 +03:00 [INF] Executed ViewResult - view Upload executed in 262.7468ms.
+2026-10-21 22:08:10.305 +03:00 [INF] Executed action Laba.Controllers.HomeController.Upload (Laba) in 263.7107ms
+2026-10-21 22:08:10.305 +03:00 [INF] Executed endpoint 'Laba.Controllers.HomeController.Upload (Laba)'
+2026-10-21 22:08:10.305 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7072/Home/Upload - 200 null text/html; charset=utf-8 334.8479ms
+2026-10-21 22:08:11.258 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7072/_framework/aspnetcore-browser-refresh.js - null null
+2026-10-21 22:08:11.266 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7072/_vs/browserLink - null null
+2026-10-21 22:08:11.271 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7072/_framework/aspnetcore-browser-refresh.js - 200 16493 application/javascript; charset=utf-8 9.2961ms
+2026-10-21 22:08:11.505 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7072/_vs/browserLink - 200 null text/javascript; charset=UTF-8 238.7657ms
+2026-10-21 22:09:36.516 +03:00 [INF] Request starting HTTP/2 POST https://localhost:7072/Home/Upload - multipart/form-data; boundary=----WebKitFormBoundary7I25COHveqMzYBU7 475
+2026-10-21 22:09:36.532 +03:00 [INF] Executing endpoint 'Laba.Controllers.HomeController.Upload (Laba)'
+2026-10-21 22:09:36.571 +03:00 [INF] Route matched with {action = "Upload", controller = "Home"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Upload(Microsoft.AspNetCore.Http.IFormFile) on controller Laba.Controllers.HomeController (Laba).
+2026-10-21 22:09:36.669 +03:00 [INF] Executing ViewResult, running view Upload.
+2026-10-21 22:09:36.686 +03:00 [INF] Executed ViewResult - view Upload executed in 17.5133ms.
+2026-10-21 22:09:36.686 +03:00 [INF] Executed action Laba.Controllers.HomeController.Upload (Laba) in 114.3138ms
+2026-10-21 22:09:36.686 +03:00 [INF] Executed endpoint 'Laba.Controllers.HomeController.Upload (Laba)'
+2026-10-21 22:09:36.687 +03:00 [INF] Request finished HTTP/2 POST https://localhost:7072/Home/Upload - 200 null text/html; charset=utf-8 171.4681ms
+2026-10-21 22:09:37.138 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7072/_framework/aspnetcore-browser-refresh.js - null null
+2026-10-21 22:09:37.151 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7072/_framework/aspnetcore-browser-refresh.js - 200 16493 application/javascript; charset=utf-8 3.8794ms
+2026-10-21 22:09:37.152 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7072/_vs/browserLink - null null
+2026-10-21 22:09:37.284 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7072/_vs/browserLink - 200 null text/javascript; charset=UTF-8 132.5501ms
